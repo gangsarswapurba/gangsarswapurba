@@ -1,4 +1,4 @@
-# Hello, Im Udin!
+# Hello, Im Udin 👋
 
 I'm a **Full Stack Web Developer** at [Algo Studio](https://algostudio.net)
 
@@ -53,4 +53,4 @@ I'm a **Full Stack Web Developer** at [Algo Studio](https://algostudio.net)
 - Learn Laravel especially at Front-End part as it's used commonly at my work
 - Build innaweb.com website using frontity 
 
-## Show ❤️ By Starring My Repos!
+## Show ❤️ By Starring My Repos! 😊
