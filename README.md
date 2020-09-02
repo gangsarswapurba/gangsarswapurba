@@ -1,4 +1,4 @@
-# Hello, Im Udin 👋 😊
+# Hello, Im Jamal Udin 👋 😊
 
 I'm a **Front-End Web Developer** at [Algo Studio](https://algostudio.net)
 
