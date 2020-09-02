@@ -51,6 +51,5 @@ I'm a **Front-End Web Developer** at [Algo Studio](https://algostudio.net)
 
 # 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸
 - Learn Laravel especially at Front-End part as it's used commonly at my work
-- Build innaweb.com website using frontity 
 
 ## Show ❤️ By Starring My Repos! 🙏 😊
