@@ -1,6 +1,6 @@
 # Hello, I'm Jamal 👋 😊
 
-I'm a **Full-Stack Web Developer** at [Algo Studio](https://algostudio.net)
+I'm a **Full Stack Web Developer** at [Algo Studio](https://algostudio.net)
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
@@ -38,7 +38,7 @@ I'm a **Full-Stack Web Developer** at [Algo Studio](https://algostudio.net)
         <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Visual Studio Code</span><br><br><br>
+        <span>VS Code</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
