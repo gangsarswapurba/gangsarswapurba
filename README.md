@@ -20,8 +20,8 @@ I'm a **Full Stack Web Developer** at [Algo Studio](https://algostudio.net)
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>Webpack</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+        <span>ViuJS</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
       </td>
     </tr>
     <tr valign="top">
