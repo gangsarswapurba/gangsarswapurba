@@ -53,5 +53,4 @@ I'm a **Full Stack Web Developer** at [Algostudio](https://algostudio.net)
 - Learn Laravel especially at Front-End part as it's used commonly at my work 
 - Now, it grows from only Front-End to Full-Stack fiuhh
 - Learn the already settle one laravel web based app created by my senior at work
-
-## Show ❤️ By Starring My Repos! 🙏 😊
+- Explore the new VueJS version 3
