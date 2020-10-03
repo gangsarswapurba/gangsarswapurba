@@ -7,37 +7,39 @@ I'm a **Full Stack Web Developer** at [Algostudio](https://algostudio.net)
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="33%" align="center">
         <span>HTML</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="33%" align="center">
         <span>CSS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="33%" align="center">
         <span>JavaScript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
+    </tr>
+    <tr valign="top">
+      <td width="33%" align="center">
         <span>Laravel</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
+      <td width="33%" align="center">
         <span>VueJS</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="33%" align="center">
         <span>Tailwind CSS</span><br><br><br>
         <img height="64px" src="https://files.innaweb.com/tailwindcss.svg">
       </td>
-      <td width="25%" align="center">
+    </tr>
+    <tr valign="top">
+      <td width="33%" align="center">
         <span>WordPress</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="33%" align="center">
         <span>GitHub</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
       </td>
