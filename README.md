@@ -1,6 +1,6 @@
 # Hello, I'm Jamal 👋 😊
 
-I'm a **Full Stack Web Developer** at [Algostudio](https://algostudio.net)
+I'm a **Front End Web Developer** at [Algostudio](https://algostudio.net)
 
 ## Stack I Use
 
@@ -36,6 +36,9 @@ I'm a **Full Stack Web Developer** at [Algostudio](https://algostudio.net)
     </tr>
   </tbody>
 </table>
+
+<br />
+<br />
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
