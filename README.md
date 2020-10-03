@@ -34,12 +34,6 @@ I'm a **Full Stack Web Developer** at [Algostudio](https://algostudio.net)
         <img height="64px" src="https://files.innaweb.com/tailwindcss.svg">
       </td>
     </tr>
-    <tr valign="top">
-      <td width="33%" align="center">
-        <span>WordPress</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
-      </td>
-    </tr>
   </tbody>
 </table>
 
