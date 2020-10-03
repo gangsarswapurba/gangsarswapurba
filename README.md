@@ -39,10 +39,6 @@ I'm a **Full Stack Web Developer** at [Algostudio](https://algostudio.net)
         <span>WordPress</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
       </td>
-      <td width="33%" align="center">
-        <span>GitHub</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
-      </td>
     </tr>
   </tbody>
 </table>
