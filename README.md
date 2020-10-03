@@ -38,7 +38,6 @@ I'm a **Front End Web Developer** at [Algostudio](https://algostudio.net)
 </table>
 
 <br />
-<br />
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
