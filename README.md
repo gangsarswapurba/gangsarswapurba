@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Web Developer** at [Algostudio](https://algostudio.net)
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+## Stack I Use
 
 <table>
   <tbody>
@@ -42,7 +42,5 @@ I'm a **Full Stack Web Developer** at [Algostudio](https://algostudio.net)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gangsarswapurba&show_icons=true&hide_border=true)
 
 # 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸
-- Learn Laravel especially at Front-End part as it's used commonly at my work 
-- Now, it grows from only Front-End to Full-Stack fiuhh
-- Learn the already settle one laravel web based app created by my senior at work
-- Explore the new VueJS version 3
+- Explore the new version 3 of VueJS 
+- Explore tailwindcss 
