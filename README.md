@@ -30,16 +30,16 @@ I'm a **Full Stack Web Developer** at [Algostudio](https://algostudio.net)
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
       </td>
       <td width="25%" align="center">
+        <span>Tailwind CSS</span><br><br><br>
+        <img height="64px" src="https://files.innaweb.com/tailwindcss.svg">
+      </td>
+      <td width="25%" align="center">
         <span>WordPress</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>GitHub</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>VS Code</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
   </tbody>
