@@ -30,7 +30,7 @@ I'm a **Front End Web Developer** at [Algostudio](https://algostudio.net)
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
       </td>
       <td width="33%" align="center">
-        <span>Tailwind CSS</span><br><br><br>
+        <span>TailwindCSS</span><br><br><br>
         <img height="64px" src="https://files.innaweb.com/tailwindcss.svg">
       </td>
     </tr>
